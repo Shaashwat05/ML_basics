@@ -43,8 +43,8 @@ $ git clone https://github.com/Shaashwat05/ML_basics
 
 ## Authors
 
-* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
-* [**Sagnik Sarkar**](https://github.com/sagnik106) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/lesagniksarkar/)
+* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)[![Github-profile](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Shaashwat05)
+* [**Sagnik Sarkar**](https://github.com/sagnik106) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/lesagniksarkar/)[![Github-profile](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/sagnik106)
 
 ## Acknowledgments
 
