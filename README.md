@@ -27,7 +27,7 @@ $main1.ipynb
 ```
 
 ## Original Image
-The Confusion Matrix of the prediction
+The Confusion Matrix 
 
 ![The confusion matrix of the output](https://github.com/Shaashwat05/ML_basics/blob/master/cm.png)
 
