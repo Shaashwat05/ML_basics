@@ -42,10 +42,9 @@ $ git clone https://github.com/Shaashwat05/ML_basics
 * [python](https://www.python.org/) - The software used
 
 ## Authors
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
 
-* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) 
-* [**sagnik Sarkar**](https://github.com/sagnik106) 
+* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
+* [**Sagnik Sarkar**](https://github.com/sagnik106) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/lesagniksarkar/)
 
 ## Acknowledgments
 
