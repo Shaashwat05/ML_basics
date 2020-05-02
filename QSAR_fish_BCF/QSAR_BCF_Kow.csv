@@ -1,4 +1,4 @@
-﻿CAS,Name,SMILES,LogKOW,KOW type,logBCF
+CAS,Name,SMILES,LogKOW,KOW type,logBCF
  105-67-9,n.a.,Oc1ccc(cc1C)C,2.3,exp,1.18
  108-39-4,n.a.,Oc1cccc(c1)C,1.96,exp,1.03
  113136-77-9,n.a.,O=C(O)C2CC2(C(=O)Nc1ccc(cc1Cl)Cl),1.98,pred,-0.4
@@ -194,7 +194,6 @@
 128-37-0,"2,6-di-tert-Butyl-p-cresol",Oc1c(cc(cc1C(C)(C)C)C)C(C)(C)C,5.1,exp,3.12
 128639-02-1,n.a.,O=C(OCC)C(Cc1cc(c(F)cc1Cl)N2N=C(N(C2(=O))C(F)F)C)Cl,3.36,exp,2.25
 128-86-9/2861-02-1,"4,8-Diamino-9,10-dihydro-1,5-dihydroxy-9,10-dioxoanthracene-2,6-",,,,
-"disulphonic acid""",OS(=O)(=O)c1c(c2c(c(c1)N)C(=O)c1c(c(cc(c1O)S(=O)(=O)O)N)C2=O)O,0.31,Merged,,-2.48
 129-00-0,Pyrene,c1c2c3c4c(c1)cccc4ccc3ccc2,4.88,exp,2.97
 129-43-1,1-Hydroxyanthraquinone,O=C1c2c(cccc2O)C(=O)c2c1cccc2,3.52,exp,2.31
 129630-19-9,n.a.,O=C(OCC)COc1cc(c(F)cc1Cl)c2nn(c(OC(F)F)c2Cl)C,4.9,pred,0.38
@@ -400,7 +399,6 @@
 25567-40-2,1-Hydroxy-2-tert Butyl-4-methyl benzene,Cc1ccc(c(c1)C(C)(C)C)O,3.71,pred,2.87
 25638-17-9,n.a.,O=S(=O)(O)c2cccc1ccc(cc12)CCCC,2.36,pred,0.18
 25747-06-2,"5-Chloro-3-((1,5-dihydroxy-2-naphthyl)azo)-2-hydroxybenzenesulphonic",,,,
-"acid""",OS(=O)(=O)c1c(c(cc(c1)Cl)N=Nc1c(c2cccc(c2cc1)O)O)O,0.58,Merged,,2.56
 2581-34-2,4-Nitro-m-cresol,Cc1cc(ccc1[N+](=O)[O-])O,2.48,exp,1.16
 2593-15-9,n.a.,n1c(nsc1OCC)C(Cl)(Cl)Cl,3.37,exp,2.22
 07.03.97,n.a.,O=C(OCC)C(c1ccccc1)SP(OC)(OC)=S,3.69,exp,1.8
